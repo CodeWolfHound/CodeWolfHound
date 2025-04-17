@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome!!! 🚀
 
-<!--
-**CodeWolfHound/CodeWolfHound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💀 Code Wolf Hound
 
-Here are some ideas to get you started:
+**`Coder of things`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+🐍 Python , 𐃗# C Sharp , 💧 Deluge , (More Coming soon)
+
+## Bio
+Im a selftaught programmer coming from the IT field . Currently working as an app developer for the Creator team in Zoho .
+I love playing video games and enjoy solving problems using logic (The awnser usually).
+
+Im the team lead in a current videogame project with two other artist using the Unity Engine (Programming , Gameplay Design , Audio Design )
+
+The project is called  **`Evanas Tavern`** .
+My experience may be shorter than others but my learning drive is high! , so im constantly exploring game development in order to better help with others.
+
+Please feel free to contact me about any possible job or general question! 
