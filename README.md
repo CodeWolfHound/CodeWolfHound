@@ -4,16 +4,27 @@
 
 **`Coder of things`**
 
-## Languages
-🐍 Python , 𐃗# C Sharp , 💧 Deluge , (More Coming soon)
+## Skills
+- **Languages**: 𐃗# , 🐍 Python , 💧 Deluge
+- **Applications**: VSCode , VS , Creator Platform , Unity
+- **Front/Backend Development**: App Design , Scripts , API Calls .
 
 ## Bio
-Im a selftaught programmer coming from the IT field . Currently working as an app developer for the Creator team in Zoho .
-I love playing video games and enjoy solving problems using logic (The awnser usually).
+Im a selftaught programmer (1.5 years) advancing from the IT field ( 5 Years ).
 
-Im the team lead in a current videogame project with two other artist using the Unity Engine (Programming , Gameplay Design , Audio Design )
+Currently working as an app developer for the Creator team in Zoho.
 
-The project is called  **`Evanas Tavern`** .
-My experience may be shorter than others but my learning drive is high! , so im constantly exploring game development in order to better help with others.
+I love playing video games , talking with others , and enjoy solving problems using logic (The awnser usually). Currently learning game development strategies and design to
+enter my dream of being a game developer! 💖💖💖
 
-Please feel free to contact me about any possible job or general question! 
+# Projects
+Im the team lead in a videogame project with two other artist using the Unity Engine (Programming , Gameplay Design , Audio Design ).
+
+The project is called  **`Evanas Tavern`** . ( A 2D potion tavern drinking game with funny interactions )
+My experience may be shorter than others but my learning drive is high! , so im constantly exploring new methods in order to make everyones process faster!.
+
+# Conact Me!
+Please feel free to contact me about any possible job positions or general questions!
+
+**`LinkedIn`** - https://www.linkedin.com/in/reeni-rivera/
+**`Email`** - reeni.rivera@hotmail.com
