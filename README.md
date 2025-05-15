@@ -7,7 +7,7 @@
 ## Skills
 - **Languages**: 𐃗# , 🐍 Python , 💧 Deluge
 - **Applications**: VSCode , VS , Creator Platform , Unity
-- **Front/Backend Development**: App Design , Scripts , API Calls .
+- **Front/Backend Development**: Game Design , App Design , Scripts , API's.
 
 ## Bio
 Im a selftaught programmer (1.5 years) advancing from the IT field ( 5 Years ).
