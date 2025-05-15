@@ -18,7 +18,7 @@ I love playing video games , talking with others , and enjoy solving problems us
 enter my dream of being a game developer! 💖💖💖
 
 # Projects
-Im the team lead in a videogame project with two other artist using the Unity Engine (Programming , Gameplay Design , Audio Design ).
+Im the team lead in a videogame project with two other artist and another programmer using the Unity Engine (Programming , Gameplay Design , Audio Design ).
 
 The project is called  **`Evanas Tavern`** . ( A 2D potion tavern drinking game with funny interactions )
 My experience may be shorter than others but my learning drive is high! , so im constantly exploring new methods in order to make everyones process faster!.
