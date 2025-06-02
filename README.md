@@ -10,23 +10,23 @@
 - **Front/Backend Development**: Game Design , App Design , Scripts , API's.
 
 ## Bio
-Im a selftaught programmer (1.5 years) advancing from the IT field ( 5 Years ).
+Im a self-taught programmer ( 1.5 years ) advancing from the IT field ( 5 Years ).
 
-Currently working as an app developer for the Creator team in Zoho.
+Currently working as an app developer for the Creator team at Zoho.
 
-I love playing video games , talking with others , and enjoy solving problems using logic (The awnser usually). Currently learning game development strategies and design to
-enter my dream of being a game developer! 💖💖💖
+I love playing video games , talking with others , and enjoy solving problems using logic. Currently learning game development strategies and design to
+achieve my dream of being a game developer! 💖💖💖
 
 # Projects
-Im the team lead in a videogame project with two other artist and another programmer using the Unity Engine (Programming , Gameplay Design , Audio Design ).
+I'm the team lead in a game project with two other artists and another programmer using the Unity Engine.
 
-My experience may be shorter than others but my learning drive is high! , so im constantly exploring new methods in order to make everyones process faster!.
+Im always eager to learn despite my limited experience in the field. 
 
-Here is a link to all my games (Constantly Being Updated)
+Here is a link to all my games ( Constantly Being Updated )
 **`ProjectLink`** https://clumsybonesstudio.itch.io/
 
 # Conact Me!
 Please feel free to contact me about any possible job positions or general questions!
 
 **`LinkedIn`** - https://www.linkedin.com/in/reeni-rivera/
-**`Email`** - reeni.rivera@hotmail.com
+**`Email`** - thereeni.rivera@outlook.com
