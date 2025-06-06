@@ -6,7 +6,7 @@
 
 ## Skills
 - **Languages**: 𐃗# , 🐍 Python , 💧 Deluge
-- **Applications**: VSCode , VS , Creator Platform , Unity
+- **Applications**: Visual Studio , Visual Studio Code , Creator Platform , Unity
 - **Front/Backend Development**: Game Design , App Design , Scripts , API's.
 
 ## Bio
