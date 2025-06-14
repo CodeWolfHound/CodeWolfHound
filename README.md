@@ -1,4 +1,4 @@
-## Welcome!!! 🚀
+## Welcome! 🚀
 
 # 💀 Code Wolf Hound
 
@@ -6,21 +6,21 @@
 
 ## Skills
 - **Languages**: 𐃗# , 🐍 Python , 💧 Deluge
-- **Applications**: Visual Studio , Visual Studio Code , Creator Platform , Unity
-- **Front/Backend Development**: Game Design , App Design , Scripts , API's.
+- **Studying**: HTML , CSS , JavaScript
+- **Applications**: Visual Studio , Visual Studio Code , Zoho Creator , Unity
+- **Development**: Game scripting/programming , app design , scripts , APIs.
 
 ## Bio
-Im a self-taught programmer ( 1.5 years ) advancing from the IT field ( 5 Years ).
+I’m a self-taught programmer with 1.5 years of experience, advancing from a 5-year background in IT.
 
-Currently working as an app developer for the Creator team at Zoho.
+Currently, I work as an app developer on the Creator Team at Zoho.
 
-I love playing video games , talking with others , and enjoy solving problems using logic. Currently learning game development strategies and design to
-achieve my dream of being a game developer! 💖💖💖
+I love playing video games, chatting with others, and solving problems using logic. Right now, I’m learning game development strategies and design to achieve my dream of becoming a game developer!
 
 # Projects
-I'm the team lead in a game project with two other artists and another programmer using the Unity Engine.
+I’m the team lead on a game project with two artists and another programmer, using the Unity Engine.
 
-Im always eager to learn despite my limited experience in the field. 
+I’m always eager to learn, even with my limited experience in the field.
 
 Here is a link to all my games ( Constantly Being Updated )
 **`ProjectLink`** https://clumsybonesstudio.itch.io/
