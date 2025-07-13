@@ -5,11 +5,9 @@
 **`Coder of things`**
 
 ## Skills
-- **Languages**: 𐃗# , 🐍 Python , 💧 Deluge , JavaScript
-- **Studying**: HTML , CSS 
-- **Applications**: Visual Studio , Visual Studio Code , Zoho Creator , Unity , Unreal Engine
-- **Development**: Game scripting/programming , app design , scripts , APIs.
-
+- **Languages**: 𐃗# , 🐍 Python , 💧 Deluge , JavaScript , HTML , CSS
+- **Studying**: Java
+- **Tools**: Visual Studio , Visual Studio Code , Zoho Creator , Unity , Unreal Engine
 ## Bio
 I’m a self-taught programmer with 1.5 years of experience, building on a 5-year background in IT. Currently, I work as an app developer on the Creator Team at Zoho. 
 I enjoy playing video games, connecting with others, and solving problems through logic. I'm currently learning game development strategies and design to pursue my dream of becoming a game developer.
