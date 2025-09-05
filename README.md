@@ -2,7 +2,7 @@
 
 # 💀 Code Wolf Hound
 
-**`Solutions Engineer`**
+**`Software Engineer`**
 
 ## Skills
 - **Languages**: 𐃗# , 🐍 Python , 💧 Deluge , JavaScript , HTML , CSS
