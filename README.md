@@ -5,12 +5,12 @@
 **`Software Engineer`**
 
 ## Skills
-- **Languages**: 𐃗# , 🐍 Python , 💧 Deluge , JavaScript , HTML , CSS
+- **Languages**: 𐃗# , 💧 Deluge , 🐍 Python , JavaScript , HTML , CSS
 - **Studying**: C++
-- **Tools**: Unity , Unreal Engine , REST API's , Zoho Creator , Windows Presentation Foundation (WPF).
+- **Experience in**: CRM Automation, REST API's , SaaS App Development , REST API's , Unity Game Engine, Windows Presentation Foundation (WPF).
 ## Bio
-I’m a self-taught programmer with 2 years of experience, building on a 5-year background in IT. Currently, I work as a Software Engineer on the Creator Team at Zoho. 
-I enjoy playing video games, learning technologies, and solving automation problems. I'm currently learning game development to find a position in the game industry.
+Self-taught programmer with 2 years of experience, from a 5-year background in IT. Currently, I work as a Software Solutions Engineer on the Creator team at Zoho. 
+Versatile in learning new programming languages and experienced in debuging programming automation.
 
 # Game Projects
 **`Game Projects`** https://clumsybonesstudio.itch.io/
