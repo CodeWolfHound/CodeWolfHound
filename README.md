@@ -13,7 +13,7 @@ Self-taught programmer with 2 years of experience, from a 5-year background in I
 Versatile in learning new programming languages and experienced in debuging programming automation.
 
 # Game Projects
-**`Game Projects`** https://clumsybonesstudio.itch.io/
+https://clumsybonesstudio.itch.io/
 
 # Conact Me!
 Please feel free to contact me about any possible job positions or general questions!
