@@ -15,7 +15,7 @@ Versatile in learning new programming languages and experienced in debuging prog
 # Game Projects
 https://clumsybonesstudio.itch.io/
 
-# Conact Me!
+# Contact Me!
 Please feel free to contact me about any possible job positions or general questions!
 
 **`LinkedIn`** - https://www.linkedin.com/in/reeni-rivera/
