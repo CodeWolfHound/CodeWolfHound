@@ -6,7 +6,7 @@
 
 ## Skills
 - **Languages**: 𐃗# , 💧 Deluge , 🐍 Python , JavaScript , HTML , CSS
-- **Studying**: C++
+- **Studying**: SQLite , MongoDB
 - **Experience in**: CRM Automation, REST API's , SaaS App Development , REST API's , Unity Game Engine, Windows Presentation Foundation (WPF).
 ## Bio
 Self-taught programmer with 2 years of experience, from a 5-year background in IT. Currently, I work as a Software Solutions Engineer on the Creator team at Zoho. 
@@ -19,4 +19,3 @@ https://clumsybonesstudio.itch.io/
 Please feel free to contact me about any possible job positions or general questions!
 
 **`LinkedIn`** - https://www.linkedin.com/in/reeni-rivera/
-**`Email`** - rivera.reeni@gmail.com
