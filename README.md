@@ -1,16 +1,17 @@
 ## Welcome! 🚀
 
-# 💀 Code Wolf Hound
+# 💀 Reeni Rivera
 
 **`Software Engineer`**
 
 ## Skills
 - **Languages**: 𐃗# , 💧 Deluge , 🐍 Python , JavaScript , HTML , CSS
 - **Studying**: SQLite , MongoDB
-- **Experience in**: CRM Automation, REST API's , SaaS App Development , REST API's , Unity Game Engine, Windows Presentation Foundation (WPF).
+- **Experience in**: CRM Automation, REST API's , SaaS App Development , Game Development, Windows Presentation Foundation (WPF).
 ## Bio
-Self-taught programmer with 2 years of experience, from a 5-year background in IT. Currently, I work as a Software Solutions Engineer on the Creator team at Zoho. 
-Versatile in learning new programming languages and experienced in debuging programming automation.
+Self-taught programmer with 2 years of experience,and from a 5-year background in IT. Currently, I work as a Software Solutions Engineer at Zoho Creator team. I solve script automation issues and help create alternatives to optimize workflows.
+
+I am versatile in learning new programming languages and experienced in general debuging.
 
 # Game Projects
 https://clumsybonesstudio.itch.io/
