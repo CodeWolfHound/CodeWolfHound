@@ -6,6 +6,7 @@
 
 ## Skills
 - **Languages**: 𐃗# , 💧 Deluge , 🐍 Python , JavaScript , HTML , CSS
+- **Framework**: Flask
 - **Studying**: SQLite , MongoDB
 - **Experience in**: CRM Automation, REST API's , SaaS App Development , Game Development, Windows Presentation Foundation (WPF).
 ## Bio
