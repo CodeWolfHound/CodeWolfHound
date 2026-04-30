@@ -7,7 +7,7 @@
 ## Skills
 - **Languages**: 𐃗# , 💧 Deluge , 🐍 Python , JavaScript , HTML , CSS
 - **Framework**: Flask
-- **Studying**: SQLite , MongoDB
+- **Studying**: SQLite , MongoDB , .Net
 - **Experience in**: CRM Automation, REST API's , SaaS App Development , Game Development, Windows Presentation Foundation (WPF).
 ## Bio
 Self-taught programmer with 2 years of experience,and from a 5-year background in IT. Currently, I work as a Software Solutions Engineer at Zoho Creator team. I solve script automation issues and help create alternatives to optimize workflows.
